@@ -3,6 +3,7 @@ package main;
 
 class Emp{
 	String name;
+	int id;
 	public String getName() {
 		return name;
 	}
@@ -15,7 +16,7 @@ class Emp{
 	public void setId(int id) {
 		this.id = id;
 	}
-	int id;
+	
 	
 	
 }
